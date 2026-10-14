@@ -10,7 +10,7 @@ Relire `code/thumb_detector.py` et cocher chaque point en citant la ligne concer
 - [x] is_thumb_extended : pas de simple comparaison d'ordonnées (robuste à l'inclinaison)
 - [x] ThumbCounter.update : publie seulement sur fenêtre pleine et unanime
 - [x] ThumbCounter.update : garde la dernière valeur publiée sinon
-- [ ] Pas de print de débogage, de chemin en dur ni de code mort
+- [x] Pas de print de débogage, de chemin en dur ni de code mort
 
 ## Tests
 - [x] Suite Devoir1/test 100 % verte
