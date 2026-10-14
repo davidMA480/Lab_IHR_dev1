@@ -1,4 +1,3 @@
-@'
 # Audit - Vérification finale
 
 ## Instructions pour l'assistant
