@@ -22,5 +22,3 @@
 
 ## Problèmes rencontrés
 - SyntaxError annotationlib (conflit de version Python)
-- modèle 14b non installé, aider a planté (Ollama 404)
-- premier essai sur la mauvaise copie du fichier (lab1 au lieu de dev1)
