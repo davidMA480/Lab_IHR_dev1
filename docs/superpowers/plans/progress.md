@@ -13,7 +13,6 @@
 ## Plans
 - [x] plan1 : is_thumb_extended
 - [x] plan2 : ThumbCounter.update
-- [x] Test webcam avec `code/detect_thumbs.py`
 
 ## Journal
 - is_thumb_extended : corrigée manuellement (le modèle 7b n'a pas produit l'édition)
