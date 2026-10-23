@@ -17,6 +17,6 @@ Relire `code/thumb_detector.py` et cocher chaque point en citant la ligne concer
 - [x] Aucun test modifié
 
 ## Comportement réel (manuel)
-- [ ] Webcam : compte stable
-- [ ] Stable quand la détection hésite
-- [ ] Testé à plusieurs distances et avec une main inclinée
+- [x] Webcam : compte stable
+- [x] Stable quand la détection hésite
+- [x] Testé à plusieurs distances et avec une main inclinée
